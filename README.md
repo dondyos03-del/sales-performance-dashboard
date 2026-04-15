@@ -6,7 +6,7 @@ This project presents an interactive sales dashboard built using Power BI to ana
 
 ## Dashboard Preview
 
-![Dashboard](sales-db.png)
+![Dashboard](sales-performance-dashboard/sales-db.png)
 
 ---
 ## Overview
